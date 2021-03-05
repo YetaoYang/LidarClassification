@@ -12,8 +12,7 @@ The purpose of the project is for semantic labeling airborne LiDAR point cloud.T
 
 ##Usage
 ###1、Dataset
-Download the ISPRS Vaihingen dataset from
-( https://www2.isprs.org/commissions/comm3/wg4/3d-semantic-labeling.html )
+Lidar point cloud can be download from [ISPRS]( https://www2.isprs.org/commissions/comm3/wg4/3d-semantic-labeling.html ).
 ###2、Preprocess data set
 The LiDAR point cloud data set first converts to .pcd, and features and labels of the points are written to .feaures and .label ASCII files ( see samples.features and samples.labels ).
 ###3、Paramets
